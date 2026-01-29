@@ -18,7 +18,7 @@ This repository is a personal educational project to understand:
 - **Target JRE:** 1.8 (Java 8)
 - Parsing Heuristics: The use of StringTokenizer and DataInputStream.readLine() reflects the limitations of early JDKs regarding character encoding and robust metadata extraction.
 
-- Security Note: This proxy is designed for plain-text HTTP only.
+  - Note: This proxy is designed for plain-text HTTP only.
 
 ## Disclaimer
 This code is for educational purposes and is adapted from the
