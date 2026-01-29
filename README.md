@@ -1,4 +1,4 @@
-#  Proxy Server Study
+#  Proxy Server Implementation
 
 Here I build a Java-based cached proxy server implementation based on the examples from 
 **Herbert Schildt's "Java 2: The Complete Reference"**.
