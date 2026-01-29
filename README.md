@@ -21,5 +21,5 @@ This repository is a personal educational project to understand:
 - Security Note: This proxy is designed for plain-text HTTP only.
 
 ## Disclaimer
-This code is for educational purposes and is adapted from Herbert Schildt's 
+This code is for educational purposes and is adapted from the
 original technical examples.
